@@ -24,11 +24,14 @@ A fun, polished browser-based Memory Match game where players flip cards to find
 - Fully responsive and accessible.
 
 ## Screenshot
-![Game Screenshot](assets/screenshot.png)
+<img width="1755" height="840" alt="image" src="https://github.com/user-attachments/assets/102d7c3c-8186-418b-b6aa-84c33ed01a64" />
+<img width="1755" height="964" alt="image" src="https://github.com/user-attachments/assets/ab2001a7-7557-4cb1-addc-ef63ed4c1db0" />
+
 
 ## Live Demo
 [GitHub Pages Link](https://arlynDV.github.io/DC101_Game_ArlynDV/)
 
 ## References
 - Inspired by standard memory game tutorials (e.g., MDN Web Docs).
+
 - All code is original; no external libraries.
