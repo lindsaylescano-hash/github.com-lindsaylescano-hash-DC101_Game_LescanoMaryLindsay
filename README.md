@@ -29,9 +29,10 @@ A fun, polished browser-based Memory Match game where players flip cards to find
 
 
 ## Live Demo
-[GitHub Pages Link](https://arlynDV.github.io/DC101_Game_ArlynDV/)
+https://github.com/lindsaylescano-hash/github.com-lindsaylescano-hash-DC101_Game_LescanoMaryLindsay
 
 ## References
 - Inspired by standard memory game tutorials (e.g., MDN Web Docs).
 
 - All code is original; no external libraries.
+
