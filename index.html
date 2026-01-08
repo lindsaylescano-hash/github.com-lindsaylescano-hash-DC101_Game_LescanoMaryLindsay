@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Memory Match Game</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body class="normal">
+    <header>
+        <h1>Memory Match</h1>
+        <p>Flip cards to find matching pairs. Match all to win!</p>
+        <div id="difficulty">
+            <button id="easy-btn" class="diff-btn selected" aria-label="Easy difficulty">🟢 Easy</button>
+            <button id="normal-btn" class="diff-btn" aria-label="Normal difficulty">🟡 Normal</button>
+            <button id="hard-btn" class="diff-btn" aria-label="Hard difficulty">🔴 Hard</button>
+        </div>
+    </header>
+    <main>
+        <div id="game-info">
+            <div id="score" aria-label="Current Score">Score: 0</div>
+            <div id="timer" aria-label="Elapsed Time">Time: 0s</div>
+            <div id="high-score" aria-label="High Score">High Score: <span id="high-score-value">0</span></div>
+        </div>
+        <div id="game-board" aria-label="Game Board"></div>
+        <div id="buttons">
+            <button id="start-btn" aria-label="Start the game"><span class="icon">▶</span> Start Game</button>
+            <button id="reset-btn" disabled aria-label="Reset the game"><span class="icon">🔄</span> Reset Game</button>
+        </div>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
